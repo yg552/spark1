@@ -1,0 +1,5 @@
+hadoop  hadoop
+spark   kafka
+flume   flink
+flink   sparkQql
+sparkStreaming  aa
